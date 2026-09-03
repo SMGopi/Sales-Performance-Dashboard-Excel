@@ -32,4 +32,4 @@ filtering and insights.
 - October recorded the highest monthly sales (₹337K)
 
 ## 👤 Author
-Marigopi S — Data Analytics Enthusiast
+Marigopi S 
